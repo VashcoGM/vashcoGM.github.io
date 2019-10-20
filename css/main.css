@@ -464,7 +464,7 @@ form h3 {
 }
 
 
-#name, #email, #phone, #subject {
+#name, #email, #website, #subject {
 	width: 90%;
 	height: 35px;
 	margin: .5% 5%;
