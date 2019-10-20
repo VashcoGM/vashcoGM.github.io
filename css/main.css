@@ -467,7 +467,8 @@ form h3 {
 #name, #email, #phone, #subject {
 	width: 90%;
 	height: 35px;
-	margin: .5% 5%;
+	margin: 1.5% 5%;
+	margin-top: 10px;
 }
 
 #comment {
